@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryuk242
-- 👀 I’m interested in ...coding and getting free stuff
-- 🌱 I’m currently learning ...crypto mining and crypto trading.
-- 💞️ I’m looking to collaborate on ...anything 
+- 👀 I’m interested in ...Web3 and Crypto Mining/HODLing  
+- 🌱 I’m currently learning ...crypto trading and RDX works (web3tool)
+- 💞️ I’m looking to collaborate on ...anything related to web3 dev.
 - 📫 How to reach me ... @lostyraul Twitter
 
 <!---
